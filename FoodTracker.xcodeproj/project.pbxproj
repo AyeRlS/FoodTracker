@@ -422,6 +422,7 @@
 				AA7C4E351F7E5D28000D6F9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AA7C4E361F7E5D28000D6F9F /* Build configuration list for PBXNativeTarget "FoodTrackerTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +431,7 @@
 				AA7C4E381F7E5D28000D6F9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
